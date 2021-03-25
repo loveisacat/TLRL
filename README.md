@@ -9,8 +9,8 @@ This is a paper List of transfer learning in reinforcement learning(TLRL). The P
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Bin Chen (Email: chenbin15@sina.com).
 
 ## Content
-[Survey](#survey)  
-[SMAC-based](#smac-based)  
+* [Survey](#survey)  
+* [SMAC-based](#smac-based)  
 To be continued ...
 
 
