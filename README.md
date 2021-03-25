@@ -17,7 +17,7 @@ To be continued ...
 
 ## Survey  
 * [Transfer Learning in Deep Reinforcement Learning: A Survey](https://arxiv.org/pdf/2009.07888.pdf) by Zhuangdi Zhu, Kaixiang Lin, and Jiayu Zhou. 2021 
-* [A Survey on Transfer Learning for MultiagentReinforcement Learning Systems](https://jair.org/index.php/jair/article/view/11396/26482) by Felipe Leno Da Silva,Anna Helena Reali Costa. JAIR, 2019 [中文翻译](https://blog.csdn.net/caozixuan98724/article/details/107525332)
+* [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://jair.org/index.php/jair/article/view/11396/26482) by Felipe Leno Da Silva,Anna Helena Reali Costa. JAIR, 2019 [中文翻译](https://blog.csdn.net/caozixuan98724/article/details/107525332)
 
 ## SMAC-based  
 * [Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531) by Tianjun Zhang etc. ICLR 2021. [知乎解读](https://zhuanlan.zhihu.com/p/271648948)  
