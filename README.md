@@ -17,10 +17,10 @@ To be continued ...
 
 ## Survey  
 * [Transfer Learning in Deep Reinforcement Learning: A Survey](https://arxiv.org/pdf/2009.07888.pdf) by Zhuangdi Zhu, Kaixiang Lin, and Jiayu Zhou. 2021 
-* [A Survey on Transfer Learning for MultiagentReinforcement Learning Systems](https://jair.org/index.php/jair/article/view/11396/26482) by Felipe Leno Da Silva,Anna Helena Reali Costa. JAIR, 2019[中文翻译](https://blog.csdn.net/caozixuan98724/article/details/107525332)
+* [A Survey on Transfer Learning for MultiagentReinforcement Learning Systems](https://jair.org/index.php/jair/article/view/11396/26482) by Felipe Leno Da Silva,Anna Helena Reali Costa. JAIR, 2019 [中文翻译](https://blog.csdn.net/caozixuan98724/article/details/107525332)
 
 ## SMAC-based  
-* [Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531) by Tianjun Zhang etc. ICLR 2021.[知乎解读](https://zhuanlan.zhihu.com/p/271648948)  
+* [Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531) by Tianjun Zhang etc. ICLR 2021. [知乎解读](https://zhuanlan.zhihu.com/p/271648948)  
 * [UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS](https://openreview.net/pdf/1f24b0b3a09ad8484d3887053d6c4c6a87d96ba1.pdf) by Siyi Hu etc. ICLR 2021.  
 * [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6221) by Weixun Wang etc. AAAI 2020.  
 * [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523.pdf) by Tonghan Wang etc. 2020.  
