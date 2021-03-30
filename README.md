@@ -38,9 +38,10 @@ To be continued ...
 * [Is Independent Learning All You Need in the StarCraft Multi-Agent Challenge?](https://arxiv.org/pdf/2011.09533.pdf) by Christian Schroeder de Witt etc. 2020.  
 * [Rethinking Intelligent Behavior as Competitive Games for Handling Adversarial Challenges to Machine Learning](https://link.springer.com/chapter/10.1007/978-3-030-55692-1_1) by Joseph B etc. Adversary-Aware Learning Techniques and Trends in Cybersecurity 2020.  
 * [BENCHMARKING MULTI-AGENT DEEP REINFORCEMENT LEARNING ALGORITHMS](https://www.researchgate.net/profile/Chao-Yu-53/publication/349943157_Benchmarking_Multi-agent_Deep_Reinforcement_Learning_Algorithms/links/60482fff4585154e8c8accb1/Benchmarking-Multi-agent-Deep-Reinforcement-Learning-Algorithms.pdf) by Chao Yu etc. 2020.  
+* [StarCraft Micromanagement with Reinforcement Learning and Curriculum Transfer Learning](https://arxiv.org/pdf/1804.00810.pdf) by Kun Shao etc. IEEE Transactions on Emerging Topics in Computational Intelligence 2019. 
 * [Graph Embedding Priors for Multi-task Deep Reinforcement Learning](http://128.148.32.110/people/gdk/pubs/graph_embed_deeprl_ws.pdf) by Neev Parikh etc. 2020.  
 * [The StarCraft Multi-Agent Challenge](https://arxiv.org/pdf/1902.04043v1.pdf) by Mikayel Samvelyan etc. 2019.  
 * [LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/07a9d3fed4c5ea6b17e80258dee231fa-Paper.pdf) by Yali Du etc. NIPS 2019  
 * [Exploration with Unreliable Intrinsic Reward in Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1906.02138.pdf) by Wendelin Bohmer etc. 2019.  
 * [MAVEN: Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483.pdf) by Anuj Mahajan etc. 2019.  
-* [Multi-Agent Common Knowledge Reinforcement Learning](https://arxiv.org/pdf/1810.11702.pdf) by Christian A etc. 2018.  
+* [Multi-Agent Common Knowledge Reinforcement Learning](https://arxiv.org/pdf/1810.11702.pdf) by Christian A etc. 2018. 
