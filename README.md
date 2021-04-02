@@ -21,7 +21,8 @@ To be continued ...
 
 ## SMAC-based  
 * [Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531) by Tianjun Zhang etc. ICLR 2021. [知乎解读](https://zhuanlan.zhihu.com/p/271648948)  
-* [UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS](https://openreview.net/pdf/1f24b0b3a09ad8484d3887053d6c4c6a87d96ba1.pdf) by Siyi Hu etc. ICLR 2021.  
+* [UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS](https://openreview.net/pdf/1f24b0b3a09ad8484d3887053d6c4c6a87d96ba1.pdf) by Siyi Hu etc. ICLR 2021. 
+* [TRANSFER AMONG AGENTS: AN EFFICIENT MULTIAGENT TRANSFER LEARNING FRAMEWORK](https://arxiv.org/pdf/2002.08030.pdf) by TianPei Yang. 2021.  
 * [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6221) by Weixun Wang etc. AAAI 2020.  
 * [RODE: Learning Roles to Decompose Multi-Agent Tasks](https://arxiv.org/pdf/2010.01523.pdf) by Tonghan Wang etc. 2020.  
 * [Transfer Learning Between RTS Combat Scenarios Using Component-Action Deep Reinforcement Learning](https://skatgame.net/mburo/aiide20ws/papers/paper4-cameraready.pdf) by Richard Kelly etc. 2020.  
