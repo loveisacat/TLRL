@@ -45,5 +45,5 @@ To be continued ...
 * [LIIR: Learning Individual Intrinsic Reward in Multi-Agent Reinforcement Learning](https://proceedings.neurips.cc/paper/2019/file/07a9d3fed4c5ea6b17e80258dee231fa-Paper.pdf) by Yali Du etc. NIPS 2019  
 * [Exploration with Unreliable Intrinsic Reward in Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1906.02138.pdf) by Wendelin Bohmer etc. 2019.  
 * [MAVEN: Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483.pdf) by Anuj Mahajan etc. 2019.  
-* [Learning to Teach in Cooperative Multiagent Reinforcement Learning](file:///Users/stephenchen/Downloads/4570-Article%20Text-7609-1-10-20190707.pdf) by Shayegan, AAAI 2019.  
+* [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/1805.07830.pdf) by Shayegan, AAAI 2019.  
 * [Multi-Agent Common Knowledge Reinforcement Learning](https://arxiv.org/pdf/1810.11702.pdf) by Christian A etc. 2018. 
