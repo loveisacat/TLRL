@@ -20,7 +20,8 @@ To be continued ...
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://jair.org/index.php/jair/article/view/11396/26482) by Felipe Leno Da Silva,Anna Helena Reali Costa. JAIR, 2019 [中文翻译](https://blog.csdn.net/caozixuan98724/article/details/107525332)
 
 ## SMAC-based  
-* [Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531) by Tianjun Zhang etc. ICLR 2021. [知乎解读](https://zhuanlan.zhihu.com/p/271648948)  
+* [The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/abs/2103.01955) by Chao Yu, etc.  
+* [Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531) by Tianjun Zhang, etc. ICLR 2021. [知乎解读](https://zhuanlan.zhihu.com/p/271648948)  
 * [UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS](https://openreview.net/pdf/1f24b0b3a09ad8484d3887053d6c4c6a87d96ba1.pdf) by Siyi Hu etc. ICLR 2021. 
 * [TRANSFER AMONG AGENTS: AN EFFICIENT MULTIAGENT TRANSFER LEARNING FRAMEWORK](https://arxiv.org/pdf/2002.08030.pdf) by TianPei Yang. 2021.  
 * [From Few to More: Large-Scale Dynamic Multiagent Curriculum Learning](https://ojs.aaai.org/index.php/AAAI/article/view/6221) by Weixun Wang etc. AAAI 2020. 
