@@ -2,9 +2,13 @@
 
 Combine transfer learning into reinforcement learning is a hot and interesting filed.
 
+The Survey part includes two highly-related surveys, one is focus on Single agent RL, and another is focus on Multiagent RL.
+
 The SMAC-based part is all papers based on *"The StarCraft Multi-Agent Challenge"* in recent years(2018-2021).
 
-This is a paper List of transfer learning in reinforcement learning(TLRL). The Papers are sorted by time. Any suggestions and pull requests are welcome.
+The State/Action Representation part is about the representation work in RL.
+
+The Papers are sorted by time. Any suggestions and pull requests are welcome.
 
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact Bin Chen (Email: chenbin15@sina.com).
 
