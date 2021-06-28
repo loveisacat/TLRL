@@ -11,7 +11,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Content
 * [Survey](#survey)  
 * [SMAC-based](#smac-based)  
-* [State/Action Representation](#State/Action Representation)  
+* [State/Action Representation](#representation)  
 * To be continued ...
 
 
