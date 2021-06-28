@@ -11,6 +11,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Content
 * [Survey](#survey)  
 * [SMAC-based](#smac-based)  
+* [State/Action Representation](#rep) 
 To be continued ...
 
 
@@ -49,3 +50,6 @@ To be continued ...
 * [MAVEN: Multi-Agent Variational Exploration](https://arxiv.org/pdf/1910.07483.pdf) by Anuj Mahajan etc. 2019.  
 * [Learning to Teach in Cooperative Multiagent Reinforcement Learning](https://arxiv.org/pdf/1805.07830.pdf) by Shayegan, AAAI 2019.  
 * [Multi-Agent Common Knowledge Reinforcement Learning](https://arxiv.org/pdf/1810.11702.pdf) by Christian A etc. 2018. 
+## State/Action Representation
+* [Decoupling Value and Policy for Generalization in Reinforcement Learning](https://arxiv.org/pdf/2102.10330.pdf) by Roberta Raileanue etc. 2021. 
+
