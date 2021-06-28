@@ -1,10 +1,10 @@
 # Paper Collection of Reinforcement Learning with Transfer Ability
 
-Combine transfer learning into reinforcement learning is a hot and interesting filed.
+Combine transfer learning into reinforcement learning is a hot and interesting field.
 
-The Survey part includes two highly-related surveys, one is focus on Single agent RL, and another is focus on Multiagent RL.
+The Survey part includes two highly related surveys, one is focused on Single-agent RL, and another is focus on Multiagent RL.
 
-The SMAC-based part is all papers based on *"The StarCraft Multi-Agent Challenge"* in recent years(2018-2021).
+The SMAC-based part is all papers based on "The StarCraft Multi-Agent Challenge" in recent years(2018-2021).
 
 The State/Action Representation part is about the representation work in RL.
 
