@@ -26,6 +26,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ## SMAC-based  
 * [The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/abs/2103.01955) by Chao Yu, etc.  
+* [Cooperative Multi-Agent Transfer Learning with Level-Adaptive Credit Assignment](https://arxiv.org/pdf/2106.00517.pdf) by Tianze Zhou, etc.  
 * [Multi-Agent Collaboration via Reward Attribution Decomposition](https://arxiv.org/abs/2010.08531) by Tianjun Zhang, etc. ICLR 2021. [知乎解读](https://zhuanlan.zhihu.com/p/271648948)  
 * [UPDET: UNIVERSAL MULTI-AGENT REINFORCEMENT LEARNING VIA POLICY DECOUPLING WITH TRANSFORMERS](https://openreview.net/pdf/1f24b0b3a09ad8484d3887053d6c4c6a87d96ba1.pdf) by Siyi Hu etc. ICLR 2021. 
 * [TRANSFER AMONG AGENTS: AN EFFICIENT MULTIAGENT TRANSFER LEARNING FRAMEWORK](https://arxiv.org/pdf/2002.08030.pdf) by TianPei Yang. 2021.  
