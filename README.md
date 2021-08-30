@@ -23,6 +23,7 @@ The sharing principle of these references here is for research. If any authors d
 ## Survey  
 * [Transfer Learning in Deep Reinforcement Learning: A Survey](https://arxiv.org/pdf/2009.07888.pdf) by Zhuangdi Zhu, Kaixiang Lin, and Jiayu Zhou. 2021 
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://jair.org/index.php/jair/article/view/11396/26482) by Felipe Leno Da Silva,Anna Helena Reali Costa. JAIR, 2019 [中文翻译](https://blog.csdn.net/caozixuan98724/article/details/107525332)
+* [Agents Teaching Agents: A Survey on Inter-agent Transfer Learning](https://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/JAAMAS20-Leno.pdf) by Da Silva.  
 
 ## SMAC-based  
 * [The Surprising Effectiveness of MAPPO in Cooperative, Multi-Agent Games](https://arxiv.org/abs/2103.01955) by Chao Yu, etc.  
